@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">  
-  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="/devrishi.png">
+  <img alt="Jio Network blocking the view? Network switch reveals the magic!"  src="/banner.png">
   <br><br>
 <p/>
 
